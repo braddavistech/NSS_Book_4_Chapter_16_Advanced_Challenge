@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: darkblue;
+}
+li {
+  list-style-type: none;
+}
+.politician {
+  padding: 2vw;
+  background-color: aliceblue;
+  text-align: center;
+  margin: 6%;
+}
+.politician__name {
+  padding: 2vw;
+  font-weight: bold;
+  font-size: 9vw;
+}
+.politician__bills {
+  font-weight: bold;
+  color: black;
+}
+.politician__bills > h3 {
+  color: black;
+  font-size: 7vw;
+  padding-bottom: 3vw;
+}
+.politician__bills  h4 {
+  color: black;
+  font-size: 5vw;
+}
+.politician__bills div {
+  margin: 4vw;
+}
+.politician__influence {
+  color: black;
+  font-weight: bold;
+  font-size: 3vw;
+}
+.politician__influence li {
+  color: black;
+  font-weight: bold;
+  font-size: 2vw;
+  list-style-type: none;
+}

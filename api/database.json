@@ -1,0 +1,66 @@
+{
+  "politician": [
+    {
+      "name": "Marsha Blackburn",
+      "party": "Republican",
+      "address": "2266 Rayburn House Office Building",
+      "phone": "202-225-2811",
+      "billsId": ["HR6844", "HR6760", "HR6757", "HR6756"],
+      "padId": ["cs", "ncta", "curb"]
+    }
+  ],
+  "bills": [
+    {
+      "id": "HR6844",
+      "name": "No Early Release for Fentanyl Traffickers Act",
+      "lastAction": "09/20/2018",
+      "sponsors": ["Marsha Blackburn"],
+      "committees": ["House - Judiciary"],
+      "sector": ["Health", "Eduction"]
+    },
+    {
+      "id": "HR6760",
+      "name": "Protecting Family and Small Business Tax Cuts Act of 2018",
+      "lastAction": "10/1/2018",
+      "sponsors": ["Marsha Blackburn", "Mark Meadows", "Mark Walker", "Kevin Brady", "Sam Johnson"],
+      "committees": ["House - Ways and Means", "Senate - Finance"],
+      "sector": ["Secruities & Investment", "Finance & Insurance"]
+    },
+    {
+      "id": "HR6757",
+      "name": "Family Savings Act of 2018",
+      "lastAction": "09/28/2018",
+      "sponsors": ["Marsha Blackburn", "Devin Nunes", "David Reichert", "Peter Roskam", "Vern Buchanan"],
+      "committees": ["House - Ways and Means", "House - Education and the Workforce", "Senate - Finance"],
+      "sector": ["Secruities & Investment", "Finance & Insurance"]
+    },
+    {
+      "id": "HR6756",
+      "name": "American Innovation Act of 2018",
+      "lastAction": "09/28/2018",
+      "sponsors": ["Marsha Blackburn", "Sam Johnson", "Erik Paulsen", "Kenny Marchant", "Diane Black", "Tom Reed"],
+      "committees": ["House - Ways and Means", "Senate - Finance"],
+      "sector": ["Secruities & Investment", "Technology"]
+    }
+  ],
+  "pac": [
+    {
+      "id": "cs",
+      "name": "Cooper Steel",
+      "donation": 20000,
+      "sector": ["Secruities & Investment"]
+    },
+    {
+      "id": "ncta",
+      "name": "NCTA The Internet & Television Association",
+      "donation": 1877976,
+      "sector": ["Agribusiness", "Communications", "Finance & Insurance", "Defense", "Energy"]
+    },
+    {
+      "id": "curb",
+      "name": "Curb Records",
+      "donation": 20000,
+      "sector": ["TV/Movies/Music"]
+    }
+  ]
+}
